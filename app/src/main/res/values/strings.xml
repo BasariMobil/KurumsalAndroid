@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieManager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="MOVIE_API_KEY" translatable="false">897234d6f42a98253dbba30d2bd09f12</string>
+    <string name="search">Search</string>
+    <string name="watchlist">WatchList</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="add_to_watchlist">Add to watchlist</string>
+    <string name="remove_from_favorites">Remove from watchlist</string>
+    <string name="remove_from_watchlist">Remove from watchlist</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="home">Home</string>
+</resources>
